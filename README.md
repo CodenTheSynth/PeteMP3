@@ -12,4 +12,5 @@ i plan on improving and adding stuff to this little project, i hope you enjoy th
 (also, feel free to contribute :D )
 
 ## Credits
-[AninatedGIF by olesk75](https://github.com/olesk75/AnimatedGIF)
+[AnimatedGIF by olesk75](https://github.com/olesk75/AnimatedGIF) <br />
+and family guy ofcourse
